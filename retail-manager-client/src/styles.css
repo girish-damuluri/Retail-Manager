@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+p-dropdown .ui-dropdown{
+    width:100% !important;
+}
+
+.invalid-feedback1{
+    color: red !important;    
+}

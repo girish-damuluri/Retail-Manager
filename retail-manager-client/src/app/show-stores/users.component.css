@@ -1,0 +1,14 @@
+.btn-add{
+    background-color: #17a2b8 !important; 
+    border-color: #17a2b8 !important;
+}
+.page-title{
+    font-size: 30px;
+}
+.fa-icons-size{
+    font-size: 20px;
+}
+
+p-dropdown .ui-dropdown{
+    width:100% !important;
+}
